@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+h1{
+    color: #4dd0e1;
+    font-family: 'Pacifico';
+    text-align: center;
+}
+h2{
+    color: #a7f3d0;
+    font-family: 'caveat';
+    text-align: center;
+}
+.z{
+    font-size: large;
+    color: pink;
+    text-align: center;
+    
+}
+#a{
+    border: 5px dotted yellowgreen;
+    border-radius: 3%;
+    margin-left: 40%;
+}
+#b{
+    border: 5px dotted yellowgreen;
+    border-radius: 3%;
+    margin-left: 36%;
+}
+#x{
+    margin-left: 44%;
+}
+#y{
+    margin-left: 44%;
+}
+hr{
+    margin: 0px 25px 0px 25px;
+}
+footer{
+    text-align: center;
+}
