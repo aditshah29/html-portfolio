@@ -1,0 +1,17 @@
+h1{
+    color: greenyellow;
+    text-align: center;
+    font-size: xx-large;
+}
+p{
+    text-align: center;
+    color: greenyellow;
+    font-family: 'Indie Flower';
+    font-size: x-large;
+}
+html{
+    background-color: black;
+}
+div{
+    margin-top: 10%;
+}

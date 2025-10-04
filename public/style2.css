@@ -1,0 +1,39 @@
+div{
+    background-color: blanchedalmond;
+    border-radius: 3%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+html{
+    background-color: blue;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+img{
+    margin: 30%;
+    margin-top: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    border: 5px dashed salmon;
+    border-radius: 3%;
+}
+h3{
+    text-align: center;
+    color: red;
+}
+a{
+   color: blue;
+   margin-left: 42%;
+   margin-bottom: 3%;
+}
+#a{
+    font-family: 'Bitcount Prop Single Ink';
+}
+#b{
+    font-family: 'Dancing Script';
+    color: green;
+}

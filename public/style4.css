@@ -1,0 +1,9 @@
+html{
+    background-color: black;
+}
+h1,p{
+    color: greenyellow;
+}
+div{
+    margin-top: 5%;
+}

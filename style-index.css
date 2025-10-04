@@ -20,7 +20,7 @@ h2{
 #a{
     border: 5px dotted yellowgreen;
     border-radius: 3%;
-    margin-left: 40%;
+    margin-left: 36%;
 }
 #b{
     border: 5px dotted yellowgreen;
@@ -38,4 +38,7 @@ hr{
 }
 footer{
     text-align: center;
+}
+.p{
+    color: red;
 }
